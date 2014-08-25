@@ -1,0 +1,1 @@
+<div class="link_atas"><b><a href="?page=anggota">Lihat Data Anggota</a></b> | <b> <a href="?page=input_anggota">Input Anggota Baru</a></b> | <b><a href="?page=anggota">Edit Data Anggota</a></b> | <b><a href="?page=anggota">Hapus Data Anggota</a></b></div>

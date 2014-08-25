@@ -1,0 +1,2 @@
+<div class="link_atas"><b><a href="?page=backup">Backup Database</a></b> | 
+<b><a href="" onclick="alert('Masih dalam taraf pengembangan. Tunggu Update Aplikasi Selanjutnya')">Ekspor Data Ke Excel</a></b></div>
